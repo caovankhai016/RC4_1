@@ -186,7 +186,6 @@ DEC 4096 HEX 1000:  bf 42 c3 01  8c 2f 7c 66   bf de 52 49  75 76 81 15
 // Test Case 9: Keylength: 56 bits
 // ==================================================================
 key: 0x1910833222772a
-
 DEC    0 HEX    0:  bc 92 22 db  d3 27 4d 8f   c6 6d 14 cc  bd a6 69 0b
 DEC   16 HEX   10:  7a e6 27 41  0c 9a 2b e6   93 df 5b b7  48 5a 63 e3
 DEC  240 HEX   f0:  3f 09 31 aa  03 de fb 30   0f 06 01 03  82 6f 2a 64
@@ -320,3 +319,4 @@ DEC 3056 HEX  bf0:  f0 8f 2e 66  d2 8e d1 43   f3 a2 37 cf  9d e7 35 59
 DEC 3072 HEX  c00:  9e a3 6c 52  55 31 b8 80   ba 12 43 34  f5 7b 0b 70
 DEC 4080 HEX  ff0:  d5 a3 9e 3d  fc c5 02 80   ba c4 a6 b5  aa 0d ca 7d
 DEC 4096 HEX 1000:  37 0b 1c 1f  e6 55 91 6d   97 fd 0d 47  ca 1d 72 b8
+
